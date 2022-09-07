@@ -12,7 +12,7 @@ public class main {
         Libro libro1 = new Libro("El principito","desconocido",4,2);
 
         libro1.imprimir();
-        System.out.println("---------------Ejercicio3---------------------");
+        System.out.println("---------------Ejercicio---------------------");
 
         //Operaciones
         Operaciones ope1 = new Operaciones(2,2);
