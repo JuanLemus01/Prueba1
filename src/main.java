@@ -12,10 +12,17 @@ public class main {
         Libro libro1 = new Libro("El principito","desconocido",4,2);
 
         libro1.imprimir();
-        System.out.println("---------------Ejercicio---------------------");
+        System.out.println("---------------Ejercicio3---------------------");
 
         //Operaciones
         Operaciones ope1 = new Operaciones(2,2);
         ope1.mostrarOP();
+        System.out.println("---------------Ejercicio4---------------------");
+
+        //Rectangulo
+
+        Rectangulo rect = new Rectangulo(3,2);
+        System.out.println("El area del rectangulo es: "+rect.area());
+        System.out.println("El perimetro del rectangulo es: "+rect.perimetro());
     }
 }
