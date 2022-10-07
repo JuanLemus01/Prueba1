@@ -1,3 +1,5 @@
+package Ejercicios;
+
 public class Automovil {
     String marca, color;
     int modelo;
@@ -9,12 +11,12 @@ public class Automovil {
     }
 
     public void acelerar(){
-        System.out.println("Automovil acelera");
+        System.out.println("Ejercicios.Automovil acelera");
     }
     public void frenar(){
-        System.out.println("Automovil frena");
+        System.out.println("Ejercicios.Automovil frena");
     }
     public void arrancar(){
-        System.out.println("Automovil en marcha");
+        System.out.println("Ejercicios.Automovil en marcha");
     }
 }

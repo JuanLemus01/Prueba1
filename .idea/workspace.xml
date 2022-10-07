@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fb22be4-a123-4dcc-9f1f-0bcfa7f80075" name="Changes" comment="Prueba commit java1">
-      <change afterPath="$PROJECT_DIR$/src/Automovil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ManejoArraylis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramaManejoDeNombres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/EncontrarEnMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/EstanqueGas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Automovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/EjemploAutomovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/EjemploHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/TipoAutomovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/EjeemploTreeSetComparable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Automovil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/Automovil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CuentaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/CuentaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DetalleDeFactura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/DetalleDeFactura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstanqueGas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ManejoArraylis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/ManejoArraylis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/Operaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgramaManejoDeNombres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/ProgramaManejoDeNombres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/Rectangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,37 +60,55 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;spring&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ManejoArraylis">
-    <configuration name="CuentaBancaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CuentaBancaria" />
+  <component name="RunManager" selected="Application.EjeemploTreeSetComparable">
+    <configuration name="EjeemploTreeSetComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.EjeemploTreeSetComparable" />
+      <module name="PruebaPRGIT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploAutomovil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.EjemploAutomovil" />
+      <module name="PruebaPRGIT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.EjemploHashSet" />
+      <module name="PruebaPRGIT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncontrarEnMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.EncontrarEnMatrices" />
       <module name="PruebaPRGIT" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DetalleDeFactura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DetalleDeFactura" />
-      <module name="PruebaPRGIT" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ManejoArraylis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ManejoArraylis" />
-      <module name="PruebaPRGIT" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProgramaManejoDeNombres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgramaManejoDeNombres" />
-      <module name="PruebaPRGIT" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
+    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.ForEach" />
       <module name="PruebaPRGIT" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ManejoArraylis" />
-        <item itemvalue="Application.ProgramaManejoDeNombres" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.CuentaBancaria" />
-        <item itemvalue="Application.DetalleDeFactura" />
+        <item itemvalue="Application.EjeemploTreeSetComparable" />
+        <item itemvalue="Application.EjemploHashSet" />
+        <item itemvalue="Application.EjemploAutomovil" />
+        <item itemvalue="Application.ForEach" />
+        <item itemvalue="Application.EncontrarEnMatrices" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +133,10 @@
       <option name="presentableId" value="Default" />
       <updated>1662423571156</updated>
       <workItem from="1662423572731" duration="14001000" />
-      <workItem from="1662816208707" duration="6912000" />
+      <workItem from="1662816208707" duration="10020000" />
+      <workItem from="1663644134285" duration="4169000" />
+      <workItem from="1664820719212" duration="2937000" />
+      <workItem from="1665173222341" duration="3978000" />
     </task>
     <task id="LOCAL-00001" summary="Prueba commit java1">
       <created>1662568459398</created>

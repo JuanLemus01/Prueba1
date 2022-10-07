@@ -1,3 +1,5 @@
+package Ejercicios;
+
 public class Libro {
     String tituloLibro, autor;
     int numEjemplares, numEjempPres;
@@ -10,6 +12,6 @@ public class Libro {
     }
 
     public void imprimir() {
-        System.out.println("Libro: "+tituloLibro+"\nAutor: "+autor+"\nEjemplares: "+numEjemplares+"\nEjemplares prestados: "+numEjempPres);
+        System.out.println("Ejercicios.Libro: "+tituloLibro+"\nAutor: "+autor+"\nEjemplares: "+numEjemplares+"\nEjemplares prestados: "+numEjempPres);
     }
 }

@@ -1,4 +1,4 @@
-
+package Ejercicios;
 
 public class Operaciones {
 

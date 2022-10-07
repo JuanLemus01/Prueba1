@@ -1,3 +1,5 @@
+package Ejercicios;
+
 public class main {
     public static void main(String[] args) {
 
@@ -14,12 +16,12 @@ public class main {
         libro1.imprimir();
         System.out.println("---------------Ejercicio3---------------------");
 
-        //Operaciones
+        //Ejercicios.Operaciones
         Operaciones ope1 = new Operaciones(2,2);
         ope1.mostrarOP();
         System.out.println("---------------Ejercicio4---------------------");
 
-        //Rectangulo
+        //Ejercicios.Rectangulo
 
         Rectangulo rect = new Rectangulo(3,2);
         System.out.println("El area del rectangulo es: "+rect.area());

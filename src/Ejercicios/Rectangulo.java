@@ -1,3 +1,5 @@
+package Ejercicios;
+
 public class Rectangulo {
 
     int ladoA, ladoB;
